@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[6817],{8965:function(e){e.exports=JSON.parse('{"allTagsPath":"/en-US/blog/tags","name":"docusaurus","count":4,"permalink":"/en-US/blog/tags/docusaurus"}')}}]);
