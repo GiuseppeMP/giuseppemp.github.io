@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[4196],{5745:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);

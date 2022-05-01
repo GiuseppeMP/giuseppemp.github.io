@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[4084],{3482:function(e){e.exports=JSON.parse('{"permalink":"/en-US/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
