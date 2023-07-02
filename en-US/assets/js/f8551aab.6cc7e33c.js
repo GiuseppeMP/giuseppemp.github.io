@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[1743],{3462:(e,u,t)=>{t.r(u),t.d(u,{default:()=>n});var a=t(1764),l=t(7294);function n(){return l.createElement(a.Z,null,l.createElement("h1",null,"My React page"),l.createElement("p",null,"This is a React page"))}}}]);

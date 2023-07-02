@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[1683],{3774:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"greetings","count":1,"permalink":"/blog/tags/greetings"}')}}]);

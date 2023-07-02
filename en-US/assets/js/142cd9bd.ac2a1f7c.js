@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiuseppe_matheus_devhub=self.webpackChunkgiuseppe_matheus_devhub||[]).push([[2970],{7059:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/en-US/blog/tags/greetings","allTagsPath":"/en-US/blog/tags","count":1}')}}]);
