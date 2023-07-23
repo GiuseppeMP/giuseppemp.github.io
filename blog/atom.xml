@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giuseppemp.github.io/blog</id>
-    <title>Giuseppe Matheus - Tutoriais, Configurações e Dicas Blog</title>
+    <title>Bem vinda à DevHive - Brazil! Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giuseppemp.github.io/blog"/>
-    <subtitle>Giuseppe Matheus - Tutoriais, Configurações e Dicas Blog</subtitle>
+    <subtitle>Bem vinda à DevHive - Brazil! Blog</subtitle>
     <icon>https://giuseppemp.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
